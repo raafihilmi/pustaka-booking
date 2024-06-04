@@ -8,7 +8,7 @@
     </div>
    <?php } ?>
    <?= $this->session->flashdata('pesan'); ?>
-   <a href="" class="btn btn-primary mb-3" datatoggle="modal" data-target="#kategoriBaruModal"><i
+   <a href="" class="btn btn-primary mb-3" data-toggle="modal" data-target="#kategoriBaruModal"><i
      class="fas fafile-alt"></i> Tambah Kategori</a>
    <table class="table table-hover">
     <thead>
@@ -55,7 +55,7 @@ confirm('Kamu yakin akan menghapus <?= $judul . ' ' . $k['kategori']; ?>
   <div class="modal-content">
    <div class="modal-header">
     <h5 class="modal-title" id="kategoriBaruModalLabel">Tambah Kategori</h5>
-    <button type="button" class="close" datadismiss="modal" aria-label="Close">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
      <span aria-hidden="true">&times;</span>
     </button>
    </div>
