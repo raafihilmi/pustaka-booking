@@ -3,7 +3,7 @@
  <!-- row ux-->
  <div class="row">
   <div class="col-xl-3 col-md-6 mb-4">
-   <div class="card border-left-danger shadow h-100 py-2 bgprimary">
+   <div class="card border-left-danger shadow h-100 py-2 bg-primary">
     <div class="card-body">
      <div class="row no-gutters align-items-center">
       <div class="col mr-2">
@@ -22,7 +22,7 @@
    </div>
   </div>
   <div class="col-xl-3 col-md-6 mb-4">
-   <div class="card border-left-primary shadow h-100 py-2 bgwarning">
+   <div class="card border-left-primary shadow h-100 py-2 bg-warning">
     <div class="card-body">
      <div class="row no-gutters align-items-center">
       <div class="col mr-2">
@@ -46,7 +46,7 @@
    </div>
   </div>
   <div class="col-xl-3 col-md-6 mb-4">
-   <div class="card border-left-success shadow h-100 py-2 bgdanger">
+   <div class="card border-left-success shadow h-100 py-2 bg-danger">
     <div class="card-body">
      <div class="row no-gutters align-items-center">
       <div class="col mr-2">
@@ -70,7 +70,7 @@
    </div>
   </div>
   <div class="col-xl-3 col-md-6 mb-4">
-   <div class="card border-left-warning shadow h-100 py-2 bgsuccess">
+   <div class="card border-left-warning shadow h-100 py-2 bg-success">
     <div class="card-body">
      <div class="row no-gutters align-items-center">
       <div class="col mr-2">
